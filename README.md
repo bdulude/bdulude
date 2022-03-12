@@ -1,4 +1,4 @@
 ### Welcome to my humble Github!
 
-<p>My name is **Brent Dulude** and I have experience working as a **Full Stack Developer** and a Bachelor's degree in **Computer Science** from Lake Forest College.</p>
+My name is **Brent Dulude** and I have experience working as a **Full Stack Developer** and a Bachelor's degree in **Computer Science** from Lake Forest College.
 
